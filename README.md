@@ -2,27 +2,17 @@
     I Code for NO Code. 🚀
 </h1>
 
-
-<p align="center">
-  <img alt="1chooo.com Home Page" src="./.github/cover.png">
-</p>
-
 <h3 align="center">
     <b><i>The Source Code of my Problem-Solving.</i></b>
 </h3>
 
 <p align="center">
-    <i><b>✨ I moved my focus on <a href="https://go.dev/"><code>GO</code>.</b></a> <img src="./.github/working_hard_go.png" width="20" height="20"></i>
+    <i><b>✨ I moved my focus on </i>
     <br />
-    <i>Visit my Website 👉🏻 <a href="https:1chooo.com">1chooo.com</a> and Medium 👉🏻 <a href="https://medium.com/@1chooo">Chun-Ho (Hugo) Lin.</a></i>
 </p>
 
 
 This repository contains the source code of my problem-solving journey. I will be sharing the process of my problem-solving skills, coding practices, and the journey of my software engineering. I will keep updating this repository with my software engineering journey.
-
-## 📇 My LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/1chooo?theme=nord&ext=activity)
 
 ## 💪🏻 How to Contribute
 
@@ -57,16 +47,12 @@ This repository contains the source code of my problem-solving journey. I will b
 > For example:
 > 
 > ```cpp
-> /**
->  * Author: 1chooo<hugo970217@gmail.com>
->  * Problem: https://leetcode.com/problems/minimum-string-length-after-removing-substrings
->  * Runtime: 3ms (89.08%)
->  */
+
 > ```
 
 ### Forking this Repository:
 
-Fork the [`1chooo/code`](https://github.com/1chooo/code) repository into your own workspace.
+Fork the [`1chooo/code`](https://github.com/leodev007/code) repository into your own workspace.
 
 ### Cloning the Repository to Your Workspace:
 
@@ -92,7 +78,7 @@ If you have any valuable ideas to contribute, please create a pull request and p
 
 ### Issue Reporting:
 
-If you encounter any problems while contributing to this project, please report the issues in the [1chooo/code/issues](https://github.com/1chooo/code/issues) section.
+If you encounter any problems while contributing to this project, please report the issues in the [1chooo/code/issues](https://github.com/leodev007/code/issues) section.
 
 > [!IMPORTANT]  
 > **Make sure to synchronize and update your repository before writing any code.**
@@ -103,36 +89,4 @@ If you encounter any problems while contributing to this project, please report 
 > 4. Run `git merge upstream/main` to merge the updated remote version into your local copy. If there are no conflicts, the update process is complete.
 > 5. Run `git stash pop` to apply your temporarily stashed changes back to your working directory. Resolve any conflicts if necessary.
 
-<!-- ### Resources
-* LeetCode
-* HackerRank
-* Codeforces
-* Project Euler
-* UVa Online Judge
-* TopCoder
-* CodeChef
-* SPOJ (Sphere Online Judge)
-* InterviewBit
-* AtCoder -->
 
-## 📱 CONTACT INFO.
-
-> **Hugo ChunHo Lin**
-> 
-> <aside>
->   📩 E-mail: <a href="mailto:hugo970217@gmail.com">hugo970217@gmail.com</a>
-> <br>
->   🧳 Linkedin: <a href="https://www.linkedin.com/in/1chooo/">Hugo ChunHo Lin</a>
-> <br>
->   👨🏻‍💻 GitHub: <a href="https://github.com/1chooo">1chooo</a>
->    
-> </aside>
-
-
-## 🪪 LICENSE
-
-Released under [MIT](./LICENSE) by [@1chooo](https://1chooo.com)
-
-This software can be modified and reused without restriction. The original license must be included with any copies of this software. If a significant portion of the source code is used, please provide a link back to this repository.
-
-Made with ❤️ by [@1chooo](https://1chooo.com)
